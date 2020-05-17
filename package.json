@@ -1,7 +1,7 @@
 {
   "name": "bot",
   "version": "1.0.0",
-  "description": "",
+  "description": "A template Discord bot :)",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
