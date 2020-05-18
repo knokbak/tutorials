@@ -9,6 +9,7 @@
   "author": "sysollie",
   "license": "The Unlicense",
   "dependencies": {
-    "discord.js": "^12.2.0"
+    "discord.js": "^12.2.0",
+    "ms": "^2.1.2"
   }
 }
