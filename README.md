@@ -14,3 +14,7 @@ Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 A powerful library for interacting with the Discord API.
 [NPM](https://npmjs.com/package/discord.js)
 [Website](https://discord.js.org)
+
+### MS
+Use this package to easily convert various time formats to milliseconds.
+[NPM](https://npmjs.com/package/ms)
