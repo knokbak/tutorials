@@ -18,3 +18,8 @@ A powerful library for interacting with the Discord API.
 ### MS
 Use this package to easily convert various time formats to milliseconds.
 [NPM](https://npmjs.com/package/ms)
+
+## Getting started
+To get install all needed packages, use `npm installall`. You **must** put a Discord **bot** token in `config.json`. Once you've done that, you can use `npm start` to start the bot.
+
+> Do not put a user account token in `config.json`. [Selfbotting is against Discord's Terms Of Services and you risk account termination](https://support.discord.com/hc/en-us/articles/115002192352-Automated-user-accounts-self-bots) by using one.
