@@ -4,7 +4,8 @@
   "description": "A template Discord bot :)",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "installall": "npm install build-essentials && npm install discord.js && npm install opusscript && npm install ms"
   },
   "author": "sysollie",
   "license": "The Unlicense",
